@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Domaci Zadatak</title>
+    </head>
+   <body>
+        <h2><u><b>Подаци ученика</b></u></h2>
+        <h4>Име:</h4>
+        <p>Марко</p>
+        <h4>Презиме:</h4>
+        <p>Кубурић</p>
+        <h4>Датум рођења:</h4>
+        <p>21.08.2002.</p>
+        <img src="picture.jpg" alt="Слика није доступна" title="Слика ученика" width="201" height="300">
+        <h3>Листа линкова</h3>
+        <ol type="i">
+            <li><a href="https://eparhijabacka.info/" target="_parent">Епархија бачке</a></li>
+            <li><a href="http://ftn.uns.ac.rs/691618389/fakultet-tehnickih-nauka" target="_top">Факултет техничких наука</a></li>
+        </ol>
+   </body> 
+</html>
